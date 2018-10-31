@@ -4,3 +4,5 @@ We ask all participants to read through the details to ensure that the global co
 
 Values
 As we enter our fifth year, we present the Hacktoberfest values. These have been crafted by you, the community, through your actions and stories. All we have done is highlight them.
+
+# make it bun dem
